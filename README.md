@@ -14,7 +14,7 @@ Total Professional Experience - 8 years
 - Full Stack - 5+ years
 - Spring - 2+ years
 - C/C++ - 5+ years
-- + Others
+- Others
 
 > Programming languages.
 

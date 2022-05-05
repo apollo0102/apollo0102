@@ -1,11 +1,11 @@
 Senior Full Stack | Blockchain Developer
 
-I'm a Blockchain developer with over 5 years of experience in the emerging crypto market.
+I'm a Full Stack & Blockchain developer with over 5 years of experience in the emerging crypto market.
 I've expertise in designing, developing and deploying NFT and DeFi projects in ETH, BSC, Polygon & Solana .
 I also integrate projects to Web3 and allow for all popular crypto wallets to access the sites.
 
 I've expertise in Solidity, Rust, Web3js, Etherjs, Usedapp, Hard hat, Foundry, Moralis API, Subgraph, GraphQL.
-I've already experienced in specialized in NFT minting, NFT Staking, NFT marketplace, DeFi, Dex projects.
+I've already experienced in NFT minting, NFT Staking, NFT marketplace, DeFi, Dex projects.
 
 Total Professional Experience - 8 years
 - Blockchain - 5+ years

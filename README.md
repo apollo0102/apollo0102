@@ -1,6 +1,6 @@
 Senior Full Stack | Blockchain Developer
 
-I have 8+ years of experience in web and blockchain development using several modern frameworks like React, Typescript, Solidity and Rust. I have worked on a variety of projects at several companies. I have been an important problem solver in the teams and never failed to deliver quality work with my hard work and problem-solving skills. I always care about user-friendliness and the performance of my products. Working with me is like having a true partner. I look forward to starting a long and ending relationship with you. I sincerely hope to work with innovate and creative team at any time, as only remote role.
+I have 8+ years of experience in web and blockchain development using several modern frameworks like React, Typescript, Solidity and Rust. I have worked on a variety of projects at several companies. I have been an important problem solver in the teams and never failed to deliver quality work with my hard work and problem-solving skills. I always care about user-friendliness and the performance of my products. Working with me is like having a true partner. I sincerely hope to work with innovate and creative team at any time, as only remote role.
 
 Total Professional Experience - 8 years
 - Blockchain - 5+ years
